@@ -18,8 +18,8 @@ Identify and describe at least three key milestones in the evolution of software
 1. Birth of Software Engineering (1960s): During this period, the term "software
 engineering" was formalized, marking a turning point in how software was developed. 
 The need for structured methods arose due to the increasing complexity of software.
-2. Introduction of Formal Methodologies (1970s): The 1970s saw the introduc-
-tion of structured methodologies such as the Waterfall method, which allowed a
+2. Introduction of Formal Methodologies (1970s): The 1970s saw the introduction 
+of structured methodologies such as the Waterfall method, which allowed a
 more disciplined and sequential approach to software development.
 3. Rise of Agile Methodologies (2000s): With the growing need for rapid and
 iterative deliveries, Agile methodologies became popular, offering more flexibility
@@ -41,8 +41,8 @@ be completed before moving on to the next. It is ideal for projects where requir
 are well-defined and unlikely to change, such as in software development for
 regulated industries (e.g. aerospace).
 2. Agile: This methodology is iterative and flexible, allowing continuous adjustments
-throughout the development process. It is more appropriate for projects where re-
-quirements may evolve, such as in digital product development or web applications.
+throughout the development process. It is more appropriate for projects where requirements
+may evolve, such as in digital product development or web applications.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
@@ -59,8 +59,8 @@ time, within budget, and according to specifications.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-1. IDE: An IDE is software that provides comprehensive tools for software develop-
-ment in a single environment, facilitating coding, debugging, and code management.
+1. IDE: An IDE is software that provides comprehensive tools for software development
+in a single environment, facilitating coding, debugging, and code management.
 For example, Visual Studio Code, Pycharm and IntelliJ IDEA are popular IDEs.
 2. VCS: A VCS allows the management of different versions of source code, tracking
 changes, and collaborating with other developers. Git is one of the most widely
@@ -71,8 +71,8 @@ What are some common challenges faced by software engineers? Provide strategies 
 1. Managing Complexity: The complexity of systems can make code management
 difficult. Using modular design principles and code management tools (like Git)
 can help.
-2. Frequent Requirement Changes: Requirements may evolve during develop-
-ment. Adopting Agile methodologies allows better management of these changes.
+2. Frequent Requirement Changes: Requirements may evolve during development.
+Adopting Agile methodologies allows better management of these changes.
 3. Tight Deadlines: Projects are often subject to strict deadlines. Realistic planning,
 using project management tools, and task prioritization can help meet deadlines.
 
@@ -104,7 +104,6 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 1. Vague Prompt: "Give me some advice."
 2. Improved prompt: "What are the top three tips for improving productivity at
 work in an office environment?"
-3. Why the improved prompt is more effective: The improved prompt is more
-specific and targeted, allowing the AI to provide a more focused and relevant re-
-sponse. It eliminates ambiguities, avoids overly general answers, and focuses on a
-specific topic, making the interaction more productive.
+3. Why the improved prompt is more effective: The improved prompt is more specific and targeted,
+allowing the AI to provide a more focused and relevant response. It eliminates ambiguities,
+avoids overly general answers, and focuses on aspecific topic, making the interaction more productive.
